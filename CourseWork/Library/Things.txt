@@ -1,0 +1,6 @@
+sofa 2 2 
+chair 100 1
+laptop 10 1
+armchair 5 1
+table 30 12
+

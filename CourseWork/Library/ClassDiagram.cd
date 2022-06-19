@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.bookRentListForm">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACASAABAAACAAAADCAIACgGAAEAAAAEAAAA=</HashCode>
+      <FileName>bookRentListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.BooksListForm">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQBEIgCACAABIBACCiACqACMACIQQEJUAAEEAEwI=</HashCode>
+      <FileName>BooksListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.MainForm">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAABBAAAACQACACAQAACAAAAEQABAAAAAA=</HashCode>
+      <FileName>FormMAIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.SecondForm">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAESQABASAIIQIgAACgAAACEDAACAAAAAAAAAAACBA=</HashCode>
+      <FileName>SecondForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.thingForm">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQAAIACACBAIgAACAAgACKAIAAAAAAAAgAAECAIQ=</HashCode>
+      <FileName>thingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.thingRentListForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACASAABACACACAADCAIAAgGAAEAAAAEAAAA=</HashCode>
+      <FileName>thingRentListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.UsersForm">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAACBCACIAAgBAiBAAAKAAKAAAIAAAASIEEAAAA=</HashCode>
+      <FileName>UsersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

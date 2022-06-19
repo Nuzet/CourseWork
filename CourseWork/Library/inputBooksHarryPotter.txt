@@ -1,0 +1,6 @@
+Harry potter part 1, J.Rouling, 712, English, 04.10.1997,
+Harry potter part 2, J.Rouling, 712, English, 04.10.1998,
+Harry potter part 3, J.Rouling, 712, English, 04.10.1999,
+Harry potter part 4, J.Rouling, 712, English, 04.10.2000,
+Harry potter part 5, J.Rouling, 712, English, 04.10.2001,
+Harry potter part 6, J.Rouling, 712, English, 04.10.2003,

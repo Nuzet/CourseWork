@@ -1,0 +1,8 @@
+Igor 12.07.2004 true
+Mike 13.06.2009 false 
+Olga 24.01.2000 true
+Vadim 30.01.2003 true
+John 21.07.2001 false
+Muhammed 03.02.1982 false
+John 18.6.2022 False
+Maria 18.6.2011 False
